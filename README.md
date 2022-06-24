@@ -1,1 +1,2 @@
-# randomGame
+# Mini Games
+* 자바스크립트로 만든 미니 게임들을 모아봤습니다.
